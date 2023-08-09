@@ -35,7 +35,7 @@ We would like to extend our heartfelt gratitude to the event organizers and facu
 Contact Us:
 If you have any questions, suggestions, or would like to know more about the project, feel free to contact us:
 
-Eniyan: [Contact Eniyan](https://www.linkedin.com/in/m-k-eniyan-519b95267/)  [Github](https://github.com/EniyanCSE)
-Rajkumar: [Contact Rajkumar](https://www.linkedin.com/in/rajkumarr28/)
+Eniyan: [Contact_Eniyan](https://www.linkedin.com/in/m-k-eniyan-519b95267/)  [Github](https://github.com/EniyanCSE)
+Rajkumar: [Contact_Rajkumar](https://www.linkedin.com/in/rajkumarr28/)
 
 Thank you for visiting the C20 MillionLights GitHub repository!
