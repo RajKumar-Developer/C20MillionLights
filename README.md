@@ -1,4 +1,4 @@
-#C20 MillionLights Project
+# <span style="color: #283474;">C</span> <span style="color: #ef7f1b;">20</span> MillionLights Project
 
 
 
@@ -32,7 +32,7 @@ Through the admin control page, we manipulated the color of participants' screen
 Acknowledgments
 We would like to extend our heartfelt gratitude to the event organizers and faculty members who granted us the opportunity to showcase our skills and creativity in this event. It was a fantastic experience that allowed us to combine our passion for web development with the excitement of large-scale event hosting.
 
-Contact Us
+Contact Us:
 If you have any questions, suggestions, or would like to know more about the project, feel free to contact us:
 
 Eniyan: [Contact Eniyan]((https://www.linkedin.com/in/m-k-eniyan-519b95267/))[Github](https://github.com/EniyanCSE)
