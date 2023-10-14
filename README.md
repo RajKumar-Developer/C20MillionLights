@@ -1,4 +1,3 @@
-[![c20 millionLights](https://img.youtube.com/vi/7hU8S8eREqQ/0.jpg)](https://youtu.be/7hU8S8eREqQ?si=86-hibYUlP6yPo54)
 
 # <span style="color: #283474;">C</span> <span style="color: #ef7f1b;">20</span> MillionLights Project
 
@@ -39,5 +38,10 @@ If you have any questions, suggestions, or would like to know more about the pro
 
 Eniyan: [Contact_Eniyan](https://www.linkedin.com/in/m-k-eniyan-519b95267/)  [Github](https://github.com/EniyanCSE)
 Rajkumar: [Contact_Rajkumar](https://www.linkedin.com/in/rajkumarr28/)
+
+#"To gain insights into the project's outcomes, I invite you to watch the corresponding YouTube video."
+
+[![c20 millionLights](https://img.youtube.com/vi/7hU8S8eREqQ/0.jpg)](https://youtu.be/7hU8S8eREqQ?si=86-hibYUlP6yPo54)
+
 
 Thank you for visiting the C20 MillionLights GitHub repository!
